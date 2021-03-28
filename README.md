@@ -74,7 +74,7 @@ classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
 - https://math.hws.edu/javanotes/
 - https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/lecture-notes/
 - https://github.com/ChrisMayfield/ThinkJavaCode2
--
+- https://github.com/lxf44944/minesweeper_java
 
 ## 5 Sceenshots
 
