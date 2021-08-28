@@ -10,6 +10,7 @@ classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
 │       2-Design.pdf
 │       3-ErrorHandling.pdf
 ├───image
+├───res
 └───src
     ├───bean
     │       HeroBean.java
