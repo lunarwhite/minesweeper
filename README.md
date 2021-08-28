@@ -79,9 +79,9 @@ classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
 
 ## 5 Sceenshots
 
-![expert-mode](res\Screenshot_3.png)
+![expert-mode](res/Screenshot_3.png)
 
-![game-over](res\Screenshot_4.png)
+![game-over](res/Screenshot_4.png)
 
-![easy-mode](res\Screenshot_5.png)
-![win](res\Screenshot_1.png)
+![easy-mode](res/Screenshot_5.png)
+![win](res/Screenshot_1.png)
