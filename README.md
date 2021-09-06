@@ -1,5 +1,7 @@
 # minesweeper
 
+![minesweeper](https://socialify.git.ci/lunarwhite/minesweeper/image?description=1&descriptionEditable=classical%20Windows%20game%2C%20bulid%20with%20Java%20Swing.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
 
 ```
