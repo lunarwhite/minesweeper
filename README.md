@@ -1,8 +1,6 @@
 # minesweeper
 
-![minesweeper](https://socialify.git.ci/lunarwhite/minesweeper/image?description=1&descriptionEditable=classical%20Windows%20game%2C%20bulid%20with%20Java%20Swing.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
-
-classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
+Classic Microsoft Windows game, bulid with Java Swing.
 
 ```
 .
@@ -41,8 +39,7 @@ classical Windows game, bulid with Java Swing. || Windows 桌面扫雷游戏
 - test and run:
   - download latest [release](https://github.com/lunarwhite/minesweeper/releases/tag/beta) and unzip
   - double-click `minesweeper.jar` in folder with `\image`
-- jdk: openjdk8-redhat
-- IDE: eclipse
+- jdk: `openjdk8-redhat`
 
 ## 2 Documents
 - 1-ProblemAnalysis.pdf
